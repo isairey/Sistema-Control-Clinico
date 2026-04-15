@@ -48,7 +48,7 @@ Permite gestionar pacientes, personal, inventario, historial clínico y procesos
 1. Clonar el repositorio:
 ```bash
 git clone https://github.com/isairey/Sistema Control Clinico.git
-
+```
 ## Admin Login Info Details
 
 userName: admin@ccbd.com <br/> passWord: Watch Youtube <a href = "https://youtu.be/8ipv81cdGSE" target="_blank"> Video </a> <br/>
