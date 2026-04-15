@@ -51,15 +51,13 @@ git clone https://github.com/isairey/Sistema Control Clinico.git
 ```
 ## Admin Login Info Details
 
-userName: admin@ccbd.com <br/> passWord: Watch Youtube <a href = "https://youtu.be/8ipv81cdGSE" target="_blank"> Video </a> <br/>
+userName: admin@ccbd.com <br/> passWord: admin <br/>
 
 ## Doctor Login Info Details <br/>
 
-userName: ccbd <br/> passWord: Watch Youtube <a href = "https://youtu.be/8ipv81cdGSE"> Video </a>
+userName: ccbd <br/> passWord: admin
 
-Subcribe my You tube Channel ** Subscribe **
-
-Author : MH RONY <br/> Website Link: https://developerrony.com <br/> GitHub Link: https://github.com/dev-mhrony <br/> Youtube Video Link: <br/> https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw <br/> Youtube Channel Link <br/> https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw <br/>
+Author : Isai Reyes <br/>  GitHub Link: https://github.com/isairey  <br/>
 
 ![screencapture-localhost-Hospital-PHP-backend-doc-index-php-2023-01-24-21_54_48](https://user-images.githubusercontent.com/78216965/214342824-414b2f18-45df-409e-be9c-81f48da78ddd.png)
 
