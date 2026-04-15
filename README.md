@@ -47,7 +47,7 @@ Permite gestionar pacientes, personal, inventario, historial clínico y procesos
 
 1. Clonar el repositorio:
 ```bash
-git clone https://github.com/isairey/Sistema Control Clinico.git
+git clone https://github.com/isairey/Sistema-Control-Clinico.git
 ```
 ## Admin Login Info Details
 
