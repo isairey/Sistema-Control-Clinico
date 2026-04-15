@@ -1,32 +1,53 @@
-# Clinic / Medical / Hospital Management System in php
+# 🏥 Sistema de Gestión Clínica / Médica / Hospitalaria en PHP
 
-Clinic / medical Management System in php By Code Camp BD <br/>
+Sistema de gestión clínica desarrollado en **PHP**, diseñado para facilitar la administración de clínicas, hospitales y consultorios médicos.  
+Permite gestionar pacientes, personal, inventario, historial clínico y procesos administrativos en un solo sistema.
 
-## Available Features:
+---
 
-<li>Admin Panel <br/> 
-<li>Employee Panel <br/> 
-<li>Patient Management <br/> 
-<li>Transfer, Discharge Patient <br/> 
-<li>Employee Management <br/> 
-<li>Assign Departments <br/> 
-<li>Transfer Employees <br/> 
-<li>Medicine Management <br/> 
-<li>Prescriptions <br/> 
-<li>Accounting – Payable and Receivable <br/> 
-<li>Inventory Management <br/> 
-<li>Assets Management <br/> 
-<li>In and Out Patient Records <br/> 
-<li>Medical Records <br/> 
-<li>Patient Lab Test and Results <br/> 
-<li>Manage Patient’s Vitals <br/> 
-<li>Lab Reports <br/> 
-<li>Surgery Records <br/> 
-<li>Surgery Equipment Records <br/> 
-<li>Patient Medical Profile <br/> 
-<li>Payroll Management <br/> 
-<li>Print Payroll Receipt <br/> 
-<li>Manage Vendors <br/>
+## 🚀 Características Disponibles
+
+<li>Panel de Administración <br/> 
+<li>Panel de Empleados <br/> 
+<li>Gestión de Pacientes <br/> 
+<li>Transferencia y Alta de Pacientes <br/> 
+<li>Gestión de Empleados <br/> 
+<li>Asignación de Departamentos <br/> 
+<li>Transferencia de Empleados <br/> 
+<li>Gestión de Medicamentos <br/> 
+<li>Recetas Médicas <br/> 
+<li>Contabilidad – Cuentas por Pagar y Cobrar <br/> 
+<li>Gestión de Inventario <br/> 
+<li>Gestión de Activos <br/> 
+<li>Registros de Pacientes Internos y Externos <br/> 
+<li>Historial Médico <br/> 
+<li>Pruebas de Laboratorio y Resultados <br/> 
+<li>Gestión de Signos Vitales del Paciente <br/> 
+<li>Reportes de Laboratorio <br/> 
+<li>Registros de Cirugías <br/> 
+<li>Registros de Equipos Quirúrgicos <br/> 
+<li>Perfil Médico del Paciente <br/> 
+<li>Gestión de Nómina <br/> 
+<li>Impresión de Recibos de Nómina <br/> 
+<li>Gestión de Proveedores <br/>
+
+---
+
+## 🛠️ Tecnologías Utilizadas
+
+- PHP  
+- HTML5  
+- CSS3  
+- JavaScript  
+- MySQL  
+
+---
+
+## ⚙️ Guía de Instalación
+
+1. Clonar el repositorio:
+```bash
+git clone https://github.com/isairey/Sistema Control Clinico.git
 
 ## Admin Login Info Details
 
